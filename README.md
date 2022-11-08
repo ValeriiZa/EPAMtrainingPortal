@@ -5,4 +5,4 @@
 Проект із розробки гри "Хрестики Нулики" на порталі SpaceGame.
 
 - [Лекція №1](https://epa.ms/first-session-marathon)
-- [Лекція №2](https://teams.microsoft.com/_#/broadcastPlaybackScreen)
+- [Лекція №2](https://epa.ms/second-session-marathon)
