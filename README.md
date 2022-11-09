@@ -6,3 +6,4 @@
 
 - [Лекція №1](https://epa.ms/first-session-marathon)
 - [Лекція №2](https://epa.ms/second-session-marathon)
+- [Лекція №3. UI/UX Design. Software architecture](https://epa.ms/third-session-marathon)
