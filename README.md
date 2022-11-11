@@ -4,9 +4,9 @@
 
 Проект із розробки гри "Хрестики Нулики" на порталі SpaceGame.
 
-- [Лекція №1](https://epa.ms/first-session-marathon)
+## [Лекція №1](https://epa.ms/first-session-marathon)
 
-- [Лекція №2](https://epa.ms/second-session-marathon)
+## [Лекція №2](https://epa.ms/second-session-marathon)
 <p>
 Презентація спікера: https://epam-my.sharepoint.com/:b:/p/yehor_bozhok/EcCk4vDWPh1IvHslZq06VZwBKM7mAeRTAnEcHKmJDBGUig?e=xctQpy
 </p>
@@ -16,7 +16,7 @@
 </p>
 
 
-- [Лекція №3. UI/UX Design. Software architecture](https://epa.ms/third-session-marathon)
+## [Лекція №3. UI/UX Design. Software architecture](https://epa.ms/third-session-marathon)
 <p>Корисні матеріали та презентація Володимира Дзюмана:
 https://www.figma.com/file/K89HEe08sLSh46lmC1CCr5/Presentation?node-id=50%3A100 
 </p>
@@ -29,4 +29,15 @@ https://www.figma.com/file/K89HEe08sLSh46lmC1CCr5/Presentation?node-id=50%3A100�
 <p>
 Home work result:
 https://www.figma.com/file/E68T0oqVuhQ3X9g8e6Oa30/Tic-Tak-Toy.-Valerii?node-id=29%3A2579
+</p>
+
+## [Лекція №4. Cloud. AWS.](https://epa.ms/fourth-session-marathon)
+https://us-east-1.console.aws.amazon.com/iamv2/home?region=us-east-1#/home
+
+## [Лекція №5. Java. Web API](https://epa.ms/fifth-session-marathon)
+<p>
+https://www.examclouds.com/ru/java/java-core-russian/pom-xml пояснення цих тегів pom.xml
+</p>
+<p>
+курс Java Basics на платформі https://learn.epam.com, або на https://training.epam.ua/#!/Home?lang=ua
 </p>
