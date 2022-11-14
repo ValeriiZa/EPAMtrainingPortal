@@ -47,3 +47,5 @@ https://www.examclouds.com/ru/java/java-core-russian/pom-xml пояснення 
 </p>
 
 [Downloading Apache Maven 3.8.6 with link on installation instruction](https://maven.apache.org/download.cgi)
+
+IntelliJ IDEA https://www.jetbrains.com/idea/download/download-thanks.html
