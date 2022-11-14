@@ -41,3 +41,9 @@ https://www.examclouds.com/ru/java/java-core-russian/pom-xml пояснення 
 <p>
 курс Java Basics на платформі https://learn.epam.com, або на https://training.epam.ua/#!/Home?lang=ua
 </p>
+<p>
+
+[Amazon Corretto 11 Installation Instructions for macOS 10.13 or later](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/macos-install.html)
+</p>
+
+[Downloading Apache Maven 3.8.6 with link on installation instruction](https://maven.apache.org/download.cgi)
